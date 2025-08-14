@@ -1,0 +1,4343 @@
+AVERAGE  PREMIUM INCOME PER POLICY FOR INDIVIDUAL AND CORPORATE AGENTS
+AVERAGE NEW BUSINESS PREMIUM INCOME PER INDIVIDUAL AND CORPORATE AGENTS
+AVERAGE NUMBER OF INDIVIDUAL POLICIES SOLD BY INDIVIDUAL AND CORPORATE AGENTS
+CHANNEL WISE - HEALTH INSURANCE BUSINESS (EXCLUDING TRAVEL AND PERSONAL ACCIDENT INSURANCE)
+CHANNEL WISE - LIFE INSURANCE GROUP NEW BUSINESS
+CHANNEL-WISE -  INSURER WISE - LIFE INSURANCE INDIVIDUAL NEW BUSINESS (2023-24)
+CHANNEL-WISE - LIFE INSURANCE - INDIVIDUAL NEW BUSINESS
+CHANNEL-WISE GENERAL INSURANCE BUSINESS
+CHANNEL-WISE INSURER-WISE LIFE INSURANCE - GROUP NEW BUSINESS (2023-24)
+INSURER-WISE STATE-WISE  DISTRIBUTION OF INDIVIDUAL AGENTS OF LIFE INSURERS
+Individual Business in Force (Number of Policies)
+Individual Business in Force (Sum Assured)
+NUMBER OF CORPORATE AGENTS  OF LIFE INSURERS
+NUMBER OF INDIVIDUAL AGENTS OF LIFE INSURERS
+NUMBER OF MICRO INSURANCE AGENTS (LIFE) - INSURER-WISE
+Network Hospital Enrolled by TPAs
+STATE WISE NUMBER OF INSURANCE MARKETING FIRMS
+STATE-WISE NUMBER OF REGISTERED BROKERS
+Segment-wise Premium on Reinsurance Accepted
+State-wise Details on Number of Network Providers
+Individual Business in Force (Number of Policies)
+Individual Business in Force (Sum Assured)
+nan
+nan
+1
+10
+11
+2
+3
+4
+5
+6
+7
+8
+9
+AVERAGE  PREMIUM INCOME PER POLICY FOR INDIVIDUAL AND CORPORATE AGENTS
+AVERAGE NEW BUSINESS PREMIUM INCOME PER INDIVIDUAL AND CORPORATE AGENTS
+AVERAGE NUMBER OF INDIVIDUAL POLICIES SOLD BY INDIVIDUAL AND CORPORATE AGENTS
+CHANNEL WISE - HEALTH INSURANCE BUSINESS (EXCLUDING TRAVEL AND PERSONAL ACCIDENT INSURANCE)
+CHANNEL WISE - LIFE INSURANCE GROUP NEW BUSINESS
+CHANNEL-WISE -  INSURER WISE - LIFE INSURANCE INDIVIDUAL NEW BUSINESS (2023-24)
+CHANNEL-WISE - LIFE INSURANCE - INDIVIDUAL NEW BUSINESS
+CHANNEL-WISE GENERAL INSURANCE BUSINESS
+CHANNEL-WISE INSURER-WISE LIFE INSURANCE - GROUP NEW BUSINESS (2023-24)
+INSURER-WISE STATE-WISE  DISTRIBUTION OF INDIVIDUAL AGENTS OF LIFE INSURERS
+NUMBER OF CORPORATE AGENTS  OF LIFE INSURERS
+NUMBER OF INDIVIDUAL AGENTS OF LIFE INSURERS
+NUMBER OF MICRO INSURANCE AGENTS (LIFE) - INSURER-WISE
+STATE WISE NUMBER OF INSURANCE MARKETING FIRMS
+STATE-WISE NUMBER OF REGISTERED BROKERS
+(As on 31st March)
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+AVERAGE  PREMIUM INCOME PER POLICY FOR INDIVIDUAL AND CORPORATE AGENTS
+AVERAGE NEW BUSINESS PREMIUM INCOME PER INDIVIDUAL AND CORPORATE AGENTS
+AVERAGE NUMBER OF INDIVIDUAL POLICIES SOLD BY INDIVIDUAL AND CORPORATE AGENTS
+CHANNEL WISE - HEALTH INSURANCE BUSINESS (EXCLUDING TRAVEL AND PERSONAL ACCIDENT INSURANCE)
+CHANNEL WISE - LIFE INSURANCE GROUP NEW BUSINESS
+CHANNEL-WISE -  INSURER WISE - LIFE INSURANCE INDIVIDUAL NEW BUSINESS (2023-24)
+CHANNEL-WISE - LIFE INSURANCE - INDIVIDUAL NEW BUSINESS
+CHANNEL-WISE GENERAL INSURANCE BUSINESS
+CHANNEL-WISE INSURER-WISE LIFE INSURANCE - GROUP NEW BUSINESS (2023-24)
+INSURER-WISE STATE-WISE  DISTRIBUTION OF INDIVIDUAL AGENTS OF LIFE INSURERS
+Individual Business in Force (Number of Policies)
+Individual Business in Force (Sum Assured)
+NUMBER OF CORPORATE AGENTS  OF LIFE INSURERS
+NUMBER OF INDIVIDUAL AGENTS OF LIFE INSURERS
+NUMBER OF MICRO INSURANCE AGENTS (LIFE) - INSURER-WISE
+Network Hospital Enrolled by TPAs
+STATE WISE NUMBER OF INSURANCE MARKETING FIRMS
+STATE-WISE NUMBER OF REGISTERED BROKERS
+Segment-wise Premium on Reinsurance Accepted
+State-wise Details on Number of Network Providers
+Individual Business in Force (Number of Policies)
+Individual Business in Force (Sum Assured)
+nan
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chattisgarh
+Daman, Diu, Dadra & Nagar Haveli
+Delhi (NCT)
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Odisha
+Puducherry
+Punjab
+Rajashtan
+Sikkim
+TamilNadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+nan
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+4
+5
+6
+7
+8
+9
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chattisgarh
+Daman, Diu, Dadra & Nagar Haveli
+Delhi (NCT)
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Odisha
+Puducherry
+Punjab
+Rajashtan
+Sikkim
+Tamilnadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+nan
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+4
+5
+6
+7
+8
+9
+nan
+nan
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+3
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+3
+4
+5
+6
+7
+8
+9
+108.650921598452
+1786
+20.4673078762615
+20965
+240.255940439991
+49723
+569.818560767835
+660288
+8115.99
+9481
+nan
+0.01
+0.2
+0.24
+1
+2
+2015.72
+21.1
+25
+272780
+3
+nan
+(As on 31st March)
+(As on March 31)
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+(As on 31st March)
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+nan
+nan
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+4
+5
+6
+7
+8
+9
+(As on 31st March)
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+4
+5
+nan
+0
+9
+nan
+0
+11365
+1817.67
+nan
+0
+127079
+41228.79
+nan
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+Ahmedabad
+Bengaluru
+Bhopal
+Bubaneshwar
+Chandigarh
+Chennai
+Delhi
+Guwahati
+Hyderabad
+Jaipur
+Kochi
+Kolkata
+Lucknow
+Mumbai
+Noida
+Patna
+Pune
+nan
+nan
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+37
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+37
+4
+5
+6
+7
+8
+9
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chattisgarh
+Dadra & Nagara Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharasthra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Odisha
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttrakhand
+West Bengal
+0 indicates that insurer's business was not in operation during the corresponding fi0ncial year or in the particular segment.
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+37
+4
+5
+6
+7
+8
+9
+nan
+(As on 31st March)
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+37
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+4
+5
+6
+7
+8
+9
+10966.5
+147062
+168191.5
+2190358
+410
+70
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra & Nagar Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Orissa
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra & Nagar Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Odisha
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+nan
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra & Nagar Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Orissa
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra & Nagar Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Orissa
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra & Nagar Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Orissa
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra & Nagar Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jammu Kashmir
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Odisha
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttrakhand
+West Bengal
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+** Hospitals may have tied up with more than one TPA
+1
+10
+11
+2
+3
+4
+5
+6
+7
+8
+9
+nan
+(As on 31st March 2024)
+(As on 31st March)
+(As on 31st March)
+AVERAGE  PREMIUM INCOME PER POLICY FOR INDIVIDUAL AND CORPORATE AGENTS
+AVERAGE NEW BUSINESS PREMIUM INCOME PER INDIVIDUAL AND CORPORATE AGENTS
+AVERAGE NUMBER OF INDIVIDUAL POLICIES SOLD BY INDIVIDUAL AND CORPORATE AGENTS
+CHANNEL WISE - HEALTH INSURANCE BUSINESS (EXCLUDING TRAVEL AND PERSONAL ACCIDENT INSURANCE)
+CHANNEL WISE - LIFE INSURANCE GROUP NEW BUSINESS
+CHANNEL-WISE -  INSURER WISE - LIFE INSURANCE INDIVIDUAL NEW BUSINESS (2023-24)
+CHANNEL-WISE - LIFE INSURANCE - INDIVIDUAL NEW BUSINESS
+CHANNEL-WISE GENERAL INSURANCE BUSINESS
+CHANNEL-WISE INSURER-WISE LIFE INSURANCE - GROUP NEW BUSINESS (2023-24)
+INSURER-WISE STATE-WISE  DISTRIBUTION OF INDIVIDUAL AGENTS OF LIFE INSURERS
+NUMBER OF CORPORATE AGENTS  OF LIFE INSURERS
+NUMBER OF INDIVIDUAL AGENTS OF LIFE INSURERS
+NUMBER OF MICRO INSURANCE AGENTS (LIFE) - INSURER-WISE
+STATE WISE NUMBER OF INSURANCE MARKETING FIRMS
+STATE-WISE NUMBER OF REGISTERED BROKERS
+(As on 31st March)
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+(As on 31st March)
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+(As on 31st March)
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+nan
+nan
+nan
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+4
+5
+6
+7
+8
+9
+Andhra Pradesh
+Bihar
+Chandigarh
+Chhattisgarh
+Goa
+Gujarat
+Haryana
+Jharkhand
+Karnataka
+Kerala
+Madhya Pradesh
+Maharashtra
+Odisha
+Punjab
+Rajasthan
+Tamil Nadu
+Telangana
+Uttar Pradesh
+Uttarakhand
+West Bengal
+nan
+Andhra Pradesh
+Assam
+Bihar
+Chandigarh
+Chattisgarh
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Madhya Pradesh
+Maharastra
+Odhisa
+Punjab
+Rajasthan
+Sikkim
+Tamilnadu
+Telangana
+Uttar Pradesh
+Uttarakhand
+West Bengal
+nan
+Brokers
+Common Service Centres (CSCs)
+Corporate Agents- Others*
+Corporate Agents-Banks
+Direct Selling
+IMF
+Individual Agents
+MI Agents
+Online**
+Others if any
+Web-Aggregators
+nan
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+Brokers
+Common Service Centres (CSCs)
+Corporate Agents- Others*
+Corporate Agents-Banks
+Direct Selling
+IMF
+Individual Agents
+MI Agents
+Online**
+Others If Any
+Web Aggregators
+nan
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+AVERAGE  PREMIUM INCOME PER POLICY FOR INDIVIDUAL AND CORPORATE AGENTS
+AVERAGE NEW BUSINESS PREMIUM INCOME PER INDIVIDUAL AND CORPORATE AGENTS
+AVERAGE NUMBER OF INDIVIDUAL POLICIES SOLD BY INDIVIDUAL AND CORPORATE AGENTS
+CHANNEL WISE - HEALTH INSURANCE BUSINESS (EXCLUDING TRAVEL AND PERSONAL ACCIDENT INSURANCE)
+CHANNEL WISE - LIFE INSURANCE GROUP NEW BUSINESS
+CHANNEL-WISE -  INSURER WISE - LIFE INSURANCE INDIVIDUAL NEW BUSINESS (2023-24)
+CHANNEL-WISE - LIFE INSURANCE - INDIVIDUAL NEW BUSINESS
+CHANNEL-WISE GENERAL INSURANCE BUSINESS
+CHANNEL-WISE INSURER-WISE LIFE INSURANCE - GROUP NEW BUSINESS (2023-24)
+INSURER-WISE STATE-WISE  DISTRIBUTION OF INDIVIDUAL AGENTS OF LIFE INSURERS
+Individual Business in Force (Number of Policies)
+Individual Business in Force (Sum Assured)
+NUMBER OF CORPORATE AGENTS  OF LIFE INSURERS
+NUMBER OF INDIVIDUAL AGENTS OF LIFE INSURERS
+NUMBER OF MICRO INSURANCE AGENTS (LIFE) - INSURER-WISE
+Network Hospital Enrolled by TPAs
+STATE WISE NUMBER OF INSURANCE MARKETING FIRMS
+STATE-WISE NUMBER OF REGISTERED BROKERS
+Segment-wise Premium on Reinsurance Accepted
+State-wise Details on Number of Network Providers
+Individual Business in Force (Number of Policies)
+Individual Business in Force (Sum Assured)
+nan
+nan
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+37
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+37
+4
+5
+6
+7
+8
+9
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chattisgarh
+Dadra & Nagara Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharasthra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Odisha
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttrakhand
+West Bengal
+0 indicates that insurer's business was not in operation during the corresponding fi0ncial year or in the particular segment.
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+37
+4
+5
+6
+7
+8
+9
+nan
+(As on 31st March)
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+37
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+4
+5
+6
+7
+8
+9
+10966.5
+147062
+168191.5
+2190358
+410
+70
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra & Nagar Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Orissa
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra & Nagar Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Odisha
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+nan
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra & Nagar Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Orissa
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra & Nagar Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Orissa
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra & Nagar Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Orissa
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra & Nagar Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jammu Kashmir
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Odisha
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttrakhand
+West Bengal
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+** Hospitals may have tied up with more than one TPA
+1
+10
+11
+2
+3
+4
+5
+6
+7
+8
+9
+nan
+(As on 31st March 2024)
+(As on 31st March)
+(As on 31st March)
+AVERAGE  PREMIUM INCOME PER POLICY FOR INDIVIDUAL AND CORPORATE AGENTS
+AVERAGE NEW BUSINESS PREMIUM INCOME PER INDIVIDUAL AND CORPORATE AGENTS
+AVERAGE NUMBER OF INDIVIDUAL POLICIES SOLD BY INDIVIDUAL AND CORPORATE AGENTS
+CHANNEL WISE - HEALTH INSURANCE BUSINESS (EXCLUDING TRAVEL AND PERSONAL ACCIDENT INSURANCE)
+CHANNEL WISE - LIFE INSURANCE GROUP NEW BUSINESS
+CHANNEL-WISE -  INSURER WISE - LIFE INSURANCE INDIVIDUAL NEW BUSINESS (2023-24)
+CHANNEL-WISE - LIFE INSURANCE - INDIVIDUAL NEW BUSINESS
+CHANNEL-WISE GENERAL INSURANCE BUSINESS
+CHANNEL-WISE INSURER-WISE LIFE INSURANCE - GROUP NEW BUSINESS (2023-24)
+INSURER-WISE STATE-WISE  DISTRIBUTION OF INDIVIDUAL AGENTS OF LIFE INSURERS
+NUMBER OF CORPORATE AGENTS  OF LIFE INSURERS
+NUMBER OF INDIVIDUAL AGENTS OF LIFE INSURERS
+NUMBER OF MICRO INSURANCE AGENTS (LIFE) - INSURER-WISE
+STATE WISE NUMBER OF INSURANCE MARKETING FIRMS
+STATE-WISE NUMBER OF REGISTERED BROKERS
+(As on 31st March)
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+(As on 31st March)
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+(As on 31st March)
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+nan
+nan
+nan
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+4
+5
+6
+7
+8
+9
+Andhra Pradesh
+Bihar
+Chandigarh
+Chhattisgarh
+Goa
+Gujarat
+Haryana
+Jharkhand
+Karnataka
+Kerala
+Madhya Pradesh
+Maharashtra
+Odisha
+Punjab
+Rajasthan
+Tamil Nadu
+Telangana
+Uttar Pradesh
+Uttarakhand
+West Bengal
+nan
+Andhra Pradesh
+Assam
+Bihar
+Chandigarh
+Chattisgarh
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Madhya Pradesh
+Maharastra
+Odhisa
+Punjab
+Rajasthan
+Sikkim
+Tamilnadu
+Telangana
+Uttar Pradesh
+Uttarakhand
+West Bengal
+nan
+Brokers
+Common Service Centres (CSCs)
+Corporate Agents- Others*
+Corporate Agents-Banks
+Direct Selling
+IMF
+Individual Agents
+MI Agents
+Online**
+Others if any
+Web-Aggregators
+nan
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+Brokers
+Common Service Centres (CSCs)
+Corporate Agents- Others*
+Corporate Agents-Banks
+Direct Selling
+IMF
+Individual Agents
+MI Agents
+Online**
+Others If Any
+Web Aggregators
+nan
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+AVERAGE  PREMIUM INCOME PER POLICY FOR INDIVIDUAL AND CORPORATE AGENTS
+AVERAGE NEW BUSINESS PREMIUM INCOME PER INDIVIDUAL AND CORPORATE AGENTS
+AVERAGE NUMBER OF INDIVIDUAL POLICIES SOLD BY INDIVIDUAL AND CORPORATE AGENTS
+CHANNEL WISE - HEALTH INSURANCE BUSINESS (EXCLUDING TRAVEL AND PERSONAL ACCIDENT INSURANCE)
+CHANNEL WISE - LIFE INSURANCE GROUP NEW BUSINESS
+CHANNEL-WISE -  INSURER WISE - LIFE INSURANCE INDIVIDUAL NEW BUSINESS (2023-24)
+CHANNEL-WISE - LIFE INSURANCE - INDIVIDUAL NEW BUSINESS
+CHANNEL-WISE GENERAL INSURANCE BUSINESS
+CHANNEL-WISE INSURER-WISE LIFE INSURANCE - GROUP NEW BUSINESS (2023-24)
+INSURER-WISE STATE-WISE  DISTRIBUTION OF INDIVIDUAL AGENTS OF LIFE INSURERS
+Individual Business in Force (Number of Policies)
+Individual Business in Force (Sum Assured)
+NUMBER OF CORPORATE AGENTS  OF LIFE INSURERS
+NUMBER OF INDIVIDUAL AGENTS OF LIFE INSURERS
+NUMBER OF MICRO INSURANCE AGENTS (LIFE) - INSURER-WISE
+Network Hospital Enrolled by TPAs
+STATE WISE NUMBER OF INSURANCE MARKETING FIRMS
+STATE-WISE NUMBER OF REGISTERED BROKERS
+Segment-wise Premium on Reinsurance Accepted
+State-wise Details on Number of Network Providers
+Individual Business in Force (Number of Policies)
+Individual Business in Force (Sum Assured)
+nan
+nan
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+37
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+37
+4
+5
+6
+7
+8
+9
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chattisgarh
+Dadra & Nagara Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharasthra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Odisha
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttrakhand
+West Bengal
+0 indicates that insurer's business was not in operation during the corresponding fi0ncial year or in the particular segment.
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+37
+4
+5
+6
+7
+8
+9
+nan
+(As on 31st March)
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+37
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+4
+5
+6
+7
+8
+9
+10966.5
+147062
+168191.5
+2190358
+410
+70
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra & Nagar Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Orissa
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra & Nagar Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Odisha
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+nan
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra & Nagar Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Orissa
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra & Nagar Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Orissa
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra & Nagar Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Orissa
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra & Nagar Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jammu Kashmir
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Odisha
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttrakhand
+West Bengal
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+** Hospitals may have tied up with more than one TPA
+1
+10
+11
+2
+3
+4
+5
+6
+7
+8
+9
+nan
+(As on 31st March 2024)
+(As on 31st March)
+(As on 31st March)
+AVERAGE  PREMIUM INCOME PER POLICY FOR INDIVIDUAL AND CORPORATE AGENTS
+AVERAGE NEW BUSINESS PREMIUM INCOME PER INDIVIDUAL AND CORPORATE AGENTS
+AVERAGE NUMBER OF INDIVIDUAL POLICIES SOLD BY INDIVIDUAL AND CORPORATE AGENTS
+CHANNEL WISE - HEALTH INSURANCE BUSINESS (EXCLUDING TRAVEL AND PERSONAL ACCIDENT INSURANCE)
+CHANNEL WISE - LIFE INSURANCE GROUP NEW BUSINESS
+CHANNEL-WISE -  INSURER WISE - LIFE INSURANCE INDIVIDUAL NEW BUSINESS (2023-24)
+CHANNEL-WISE - LIFE INSURANCE - INDIVIDUAL NEW BUSINESS
+CHANNEL-WISE GENERAL INSURANCE BUSINESS
+CHANNEL-WISE INSURER-WISE LIFE INSURANCE - GROUP NEW BUSINESS (2023-24)
+INSURER-WISE STATE-WISE  DISTRIBUTION OF INDIVIDUAL AGENTS OF LIFE INSURERS
+NUMBER OF CORPORATE AGENTS  OF LIFE INSURERS
+NUMBER OF INDIVIDUAL AGENTS OF LIFE INSURERS
+NUMBER OF MICRO INSURANCE AGENTS (LIFE) - INSURER-WISE
+STATE WISE NUMBER OF INSURANCE MARKETING FIRMS
+STATE-WISE NUMBER OF REGISTERED BROKERS
+(As on 31st March)
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+(As on 31st March)
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+(As on 31st March)
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+nan
+nan
+nan
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+4
+5
+6
+7
+8
+9
+Andhra Pradesh
+Bihar
+Chandigarh
+Chhattisgarh
+Goa
+Gujarat
+Haryana
+Jharkhand
+Karnataka
+Kerala
+Madhya Pradesh
+Maharashtra
+Odisha
+Punjab
+Rajasthan
+Tamil Nadu
+Telangana
+Uttar Pradesh
+Uttarakhand
+West Bengal
+nan
+Andhra Pradesh
+Assam
+Bihar
+Chandigarh
+Chattisgarh
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Madhya Pradesh
+Maharastra
+Odhisa
+Punjab
+Rajasthan
+Sikkim
+Tamilnadu
+Telangana
+Uttar Pradesh
+Uttarakhand
+West Bengal
+nan
+Brokers
+Common Service Centres (CSCs)
+Corporate Agents- Others*
+Corporate Agents-Banks
+Direct Selling
+IMF
+Individual Agents
+MI Agents
+Online**
+Others if any
+Web-Aggregators
+nan
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+Brokers
+Common Service Centres (CSCs)
+Corporate Agents- Others*
+Corporate Agents-Banks
+Direct Selling
+IMF
+Individual Agents
+MI Agents
+Online**
+Others If Any
+Web Aggregators
+nan
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+AVERAGE  PREMIUM INCOME PER POLICY FOR INDIVIDUAL AND CORPORATE AGENTS
+AVERAGE NEW BUSINESS PREMIUM INCOME PER INDIVIDUAL AND CORPORATE AGENTS
+AVERAGE NUMBER OF INDIVIDUAL POLICIES SOLD BY INDIVIDUAL AND CORPORATE AGENTS
+CHANNEL WISE - HEALTH INSURANCE BUSINESS (EXCLUDING TRAVEL AND PERSONAL ACCIDENT INSURANCE)
+CHANNEL WISE - LIFE INSURANCE GROUP NEW BUSINESS
+CHANNEL-WISE -  INSURER WISE - LIFE INSURANCE INDIVIDUAL NEW BUSINESS (2023-24)
+CHANNEL-WISE - LIFE INSURANCE - INDIVIDUAL NEW BUSINESS
+CHANNEL-WISE GENERAL INSURANCE BUSINESS
+CHANNEL-WISE INSURER-WISE LIFE INSURANCE - GROUP NEW BUSINESS (2023-24)
+INSURER-WISE STATE-WISE  DISTRIBUTION OF INDIVIDUAL AGENTS OF LIFE INSURERS
+Individual Business in Force (Number of Policies)
+Individual Business in Force (Sum Assured)
+NUMBER OF CORPORATE AGENTS  OF LIFE INSURERS
+NUMBER OF INDIVIDUAL AGENTS OF LIFE INSURERS
+NUMBER OF MICRO INSURANCE AGENTS (LIFE) - INSURER-WISE
+Network Hospital Enrolled by TPAs
+STATE WISE NUMBER OF INSURANCE MARKETING FIRMS
+STATE-WISE NUMBER OF REGISTERED BROKERS
+Segment-wise Premium on Reinsurance Accepted
+State-wise Details on Number of Network Providers
+Individual Business in Force (Number of Policies)
+Individual Business in Force (Sum Assured)
+nan
+nan
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+37
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+37
+4
+5
+6
+7
+8
+9
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chattisgarh
+Dadra & Nagara Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharasthra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Odisha
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttrakhand
+West Bengal
+0 indicates that insurer's business was not in operation during the corresponding fi0ncial year or in the particular segment.
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+37
+4
+5
+6
+7
+8
+9
+nan
+(As on 31st March)
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+37
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+4
+5
+6
+7
+8
+9
+10966.5
+147062
+168191.5
+2190358
+410
+70
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra & Nagar Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Orissa
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra & Nagar Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Odisha
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+nan
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra & Nagar Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Orissa
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra & Nagar Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Orissa
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra & Nagar Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Orissa
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra & Nagar Haveli and Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jammu Kashmir
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Odisha
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttrakhand
+West Bengal
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+** Hospitals may have tied up with more than one TPA
+1
+10
+11
+2
+3
+4
+5
+6
+7
+8
+9
+nan
+(As on 31st March 2024)
+(As on 31st March)
+(As on 31st March)
+AVERAGE  PREMIUM INCOME PER POLICY FOR INDIVIDUAL AND CORPORATE AGENTS
+AVERAGE NEW BUSINESS PREMIUM INCOME PER INDIVIDUAL AND CORPORATE AGENTS
+AVERAGE NUMBER OF INDIVIDUAL POLICIES SOLD BY INDIVIDUAL AND CORPORATE AGENTS
+CHANNEL WISE - HEALTH INSURANCE BUSINESS (EXCLUDING TRAVEL AND PERSONAL ACCIDENT INSURANCE)
+CHANNEL WISE - LIFE INSURANCE GROUP NEW BUSINESS
+CHANNEL-WISE -  INSURER WISE - LIFE INSURANCE INDIVIDUAL NEW BUSINESS (2023-24)
+CHANNEL-WISE - LIFE INSURANCE - INDIVIDUAL NEW BUSINESS
+CHANNEL-WISE GENERAL INSURANCE BUSINESS
+CHANNEL-WISE INSURER-WISE LIFE INSURANCE - GROUP NEW BUSINESS (2023-24)
+INSURER-WISE STATE-WISE  DISTRIBUTION OF INDIVIDUAL AGENTS OF LIFE INSURERS
+NUMBER OF CORPORATE AGENTS  OF LIFE INSURERS
+NUMBER OF INDIVIDUAL AGENTS OF LIFE INSURERS
+NUMBER OF MICRO INSURANCE AGENTS (LIFE) - INSURER-WISE
+STATE WISE NUMBER OF INSURANCE MARKETING FIRMS
+STATE-WISE NUMBER OF REGISTERED BROKERS
+(As on 31st March)
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+(As on 31st March)
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+(As on 31st March)
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+nan
+nan
+nan
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+3
+30
+31
+32
+33
+34
+35
+36
+4
+5
+6
+7
+8
+9
+Andhra Pradesh
+Bihar
+Chandigarh
+Chhattisgarh
+Goa
+Gujarat
+Haryana
+Jharkhand
+Karnataka
+Kerala
+Madhya Pradesh
+Maharashtra
+Odisha
+Punjab
+Rajasthan
+Tamil Nadu
+Telangana
+Uttar Pradesh
+Uttarakhand
+West Bengal
+nan
+Andhra Pradesh
+Assam
+Bihar
+Chandigarh
+Chattisgarh
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Madhya Pradesh
+Maharastra
+Odhisa
+Punjab
+Rajasthan
+Sikkim
+Tamilnadu
+Telangana
+Uttar Pradesh
+Uttarakhand
+West Bengal
+nan
+Brokers
+Common Service Centres (CSCs)
+Corporate Agents- Others*
+Corporate Agents-Banks
+Direct Selling
+IMF
+Individual Agents
+MI Agents
+Online**
+Others if any
+Web-Aggregators
+nan
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9
+Brokers
+Common Service Centres (CSCs)
+Corporate Agents- Others*
+Corporate Agents-Banks
+Direct Selling
+IMF
+Individual Agents
+MI Agents
+Online**
+Others If Any
+Web Aggregators
+nan
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+27
+3
+4
+5
+6
+7
+8
+9

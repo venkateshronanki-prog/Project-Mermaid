@@ -1,0 +1,8 @@
+pandas
+requests
+beautifulsoup4
+rapidfuzz
+pyyaml
+openpyxl
+streamlit
+plotly
